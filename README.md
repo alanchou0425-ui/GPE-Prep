@@ -16,9 +16,7 @@ All solutions are auto-synced via **LeetSync**, focusing on optimal time/space c
 ## 📊 Live Progress (Auto-Updated)
 
 <!-- 請將下方兩個 【你的LeetCode帳號】 替換成你實際的帳號名稱，替換完後這張圖片就會自動亮起來！ -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/
-N469eSaqxD?theme=dark&font=Baloo%20Bhaijaan%202&ext=activity)](https://leetcode.com/
-N469eSaqxD/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/N469eSaqxD?theme=dark&font=Baloo%20Bhaijaan%202&ext=activity)](https://leetcode.com/N469eSaqxD/)
 
 ---
 
