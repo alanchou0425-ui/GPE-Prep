@@ -1,4 +1,4 @@
-# GPE-Prep
+
 # 🚀 100 Days of Code: GPE & LeetCode Journey
 
 ![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
@@ -9,33 +9,16 @@
 ## 👨‍💻 About This Challenge
 Documenting my 100-day algorithmic journey in C++. The primary goal is to build a rock-solid foundation in data structures and algorithms to conquer the GPE (Global Programming Exam) and prepare for future Software Engineer (SWE) interviews in North America. 
 
-All solutions are written in **C++**, focusing on optimal time/space complexity and clean code architecture.
+All solutions are auto-synced via **LeetSync**, focusing on optimal time/space complexity and clean code architecture.
 
 ---
 
-## 📊 Progress Tracker
+## 📊 Live Progress (Auto-Updated)
 
-**Overall Progress: 0 / 200**
-> `[░░░░░░░░░░░░░░░░░░░░] 0%`
-
-### By Difficulty
-- 🟢 **Easy**: 0 / 50 
-  > `[░░░░░░░░░░░░░░░░░░░░] 0%`
-- 🟡 **Medium**: 0 / 120 
-  > `[░░░░░░░░░░░░░░░░░░░░] 0%`
-- 🔴 **Hard**: 0 / 30 
-  > `[░░░░░░░░░░░░░░░░░░░░] 0%`
-
-### By Data Structure & Algorithm
-| Topic | Completed | Target |
-| :--- | :---: | :---: |
-| **Array & Hash Table** | 0 | 25 |
-| **Two Pointers & Sliding Window** | 0 | 25 |
-| **Linked List & Stack/Queue** | 0 | 20 |
-| **Trees & Binary Search** | 0 | 30 |
-| **Graph (DFS/BFS) & Union Find** | 0 | 35 |
-| **Dynamic Programming (1D/2D)** | 0 | 45 |
-| **Greedy & Backtracking** | 0 | 20 |
+<!-- 請將下方兩個 【你的LeetCode帳號】 替換成你實際的帳號名稱，替換完後這張圖片就會自動亮起來！ -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/
+N469eSaqxD?theme=dark&font=Baloo%20Bhaijaan%202&ext=activity)](https://leetcode.com/
+N469eSaqxD/)
 
 ---
 
